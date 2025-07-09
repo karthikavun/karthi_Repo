@@ -1,0 +1,9 @@
+mark=85
+if(90<mark<100):
+    print("a")
+elif(80<mark<90):
+    print("b")
+elif(60<mark<80):
+    print("c")
+else:
+    print("fail")
